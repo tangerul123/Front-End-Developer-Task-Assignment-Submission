@@ -27,11 +27,11 @@ This project is a submission for the Front-End Developer Task Assignment. It foc
 
 ## 🔗 Live Preview
 
-👉 [Paste your live link here]
+👉 [wondrous-pudding-e0fbc7.netlify.app]
 
 ## 📁 Source Code
 
-👉 [GitHub repository link]
+👉 [[GitHub repository link](https://github.com/tangerul123/Front-End-Developer-Task-Assignment-Submission.git)]
 
 ## 🙋‍♂️ Author
 
