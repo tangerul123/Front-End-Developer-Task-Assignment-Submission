@@ -27,7 +27,7 @@ This project is a submission for the Front-End Developer Task Assignment. It foc
 
 ## 🔗 Live Preview
 
-👉 [wondrous-pudding-e0fbc7.netlify.app]
+👉 [[wondrous-pudding-e0fbc7.netlify.app]](https://wondrous-pudding-e0fbc7.netlify.app/)
 
 ## 📁 Source Code
 
