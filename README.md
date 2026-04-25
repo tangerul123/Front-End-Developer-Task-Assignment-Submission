@@ -35,4 +35,4 @@ This project is a submission for the Front-End Developer Task Assignment. It foc
 
 ## 🙋‍♂️ Author
 
-Tanju (Front-End Developer)
+Tangerul islam (Front-End Developer)
